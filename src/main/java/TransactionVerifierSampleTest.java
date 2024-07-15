@@ -1,6 +1,7 @@
 import static org.junit.Assert.assertEquals;
 
 import org.junit.*;
+import org.testng.annotations.BeforeClass;
 
 import java.net.URL;
 import java.util.*;
